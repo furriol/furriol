@@ -1,6 +1,6 @@
 ### Hi there 👋
 :+1:
-![Victor's github stats](https://github-readme-stats.vercel.app/api?username=vaporjawn&show_icons=true&hide_border=true)
+![Alejandro's github stats](https://github-readme-stats.vercel.app/api?username=furriol&show_icons=true&hide_border=true)
 
 <!--
 **furriol/furriol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
